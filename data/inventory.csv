@@ -1,0 +1,17 @@
+ingredient,stock_level,min_threshold,unit
+Beef Patty,20,100,Pieces
+Burger Bun,25,120,Pieces
+Chicken Fillet,45,80,Pieces
+Pork Patty,15,50,Pieces
+Frozen Fries,15,100,KG
+Chicken Nuggets,50,100,Pieces
+Cooking Oil,10,40,Liters
+Coke Syrup,5,20,Liters
+Soft Serve Mix,8,30,Liters
+Pie Crust,30,60,Pieces
+Lettuce,5,20,KG
+Sliced Cheese,40,150,Slices
+Tomato,4,15,KG
+Chicken Wings,25,80,Pieces
+Coffee Beans,3,10,KG
+Fresh Milk,5,20,Liters

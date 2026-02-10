@@ -1,0 +1,31 @@
+menu_item,price,sales_volume,category
+Big Burger,150,45,Burger
+Cheese Burger,120,60,Burger
+Fish Burger,130,35,Burger
+Chicken Zinger,140,55,Burger
+Double Pork Burger,180,25,Burger
+Veggie Delight,110,15,Burger
+French Fries (L),60,120,Snack
+French Fries (M),45,85,Snack
+McNuggets (6pcs),90,30,Snack
+McNuggets (10pcs),140,45,Snack
+Hash Brown,40,70,Snack
+Onion Rings,55,40,Snack
+Coke (L),40,150,Drink
+Coke (M),30,110,Drink
+Sprite (L),40,90,Drink
+Fanta Orange,30,65,Drink
+Iced Tea,35,80,Drink
+Mineral Water,15,200,Drink
+Vanilla Sundae,30,50,Dessert
+Choco Cone,15,130,Dessert
+Apple Pie,35,40,Dessert
+Corn Pie,35,55,Dessert
+Caesar Salad,95,20,Healthy
+Garden Salad,85,15,Healthy
+Fried Chicken (2pcs),110,95,Chicken
+Fried Chicken (5pcs),250,40,Chicken
+Spicy Wings (4pcs),85,75,Chicken
+Popcorn Chicken,65,60,Snack
+Hot Coffee,40,25,Drink
+Iced Latte,55,45,Drink
