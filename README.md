@@ -67,5 +67,3 @@ API_KEY = "your_API"
 ```bash
 streamlit run src/app.py
 ---
-
-Would you like me to help you create a **LinkedIn post** to announce this project once you've successfully pushed it to GitHub?
